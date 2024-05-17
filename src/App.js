@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome to Integration Ninjas
+          Welcome to CICD PIPELINE USING DOCKER,AWS AND GITHUB ACTIONS
         </p>
         <a
           className="App-link"
