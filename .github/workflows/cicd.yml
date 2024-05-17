@@ -16,7 +16,7 @@ jobs:
       - name: Build Docker Image
         run: docker build -t kashan/reactjs-app .
       - name: Publish image to docker hub
-        run: docker push integrationninjas/reactjs-app:latest   
+        run: docker push kashan/reactjs-app:latest   
 
   deploy: 
     needs: build
